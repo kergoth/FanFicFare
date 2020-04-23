@@ -178,6 +178,7 @@ from . import adapter_fastnovelnet
 from . import adapter_squidgeworldorg
 from . import adapter_thegodsarebastards
 from . import adapter_cerulianscrawling
+from . import adapter_musicmasters
 
 ## This bit of complexity allows adapters to be added by just adding
 ## importing.  It eliminates the long if/else clauses we used to need
