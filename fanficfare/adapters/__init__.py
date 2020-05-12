@@ -180,6 +180,7 @@ from . import adapter_thegodsarebastards
 from . import adapter_cerulianscrawling
 from . import adapter_musicmasters
 from . import adapter_raisesomehellnovelcom
+from . import adapter_palewebserial
 
 ## This bit of complexity allows adapters to be added by just adding
 ## importing.  It eliminates the long if/else clauses we used to need
